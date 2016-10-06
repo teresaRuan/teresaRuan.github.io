@@ -6,6 +6,12 @@
  * @link http://chopstack.com
  */
 /*
+personal styles
+ */
+input {
+  outline: none; }
+
+/*
 pure css setting
 When setting the primary font stack, apply it to the Pure grid units along
 with `html`, `button`, `input`, `select`, and `textarea`. Pure Grids use
